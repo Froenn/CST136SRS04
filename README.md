@@ -134,3 +134,10 @@ Measure the time each calculation takes to determine which data structure and al
 The student with fastest release version with an accurate calculations that fully meets the specification. The winner will recieve an SRS forgiveness (and a Smartie). 
 
 You are allowed to do any calculations at compile time you wish but you may not hand calculate anything. 
+
+---
+
+Citations:
+
+- See: [Namespaces](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-helper)
+- See: []()

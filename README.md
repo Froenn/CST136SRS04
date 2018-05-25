@@ -1,6 +1,17 @@
 # CST136SRS04
 Island Hopping
 
+Student Name: Forrest Warner
+
+Notes:
+
+- Start: SouthWestern most island in the SouthEast of the globe
+- End: Hawaii
+- overload > operator
+- We have an airship, land does not get in the way of our voyage!
+
+---
+
 Purpose:
 
 - Learn to use the C++ standard library algorithms

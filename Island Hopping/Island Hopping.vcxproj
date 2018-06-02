@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="Angle.h" />
     <ClInclude Include="GPS.h" />
+    <ClInclude Include="Haversine.h" />
     <ClInclude Include="Latitude.h" />
     <ClInclude Include="Location.h" />
     <ClInclude Include="Longitude.h" />

@@ -5,10 +5,11 @@ Student Name: Forrest Warner
 
 Notes:
 
-- Start: SouthWestern most island in the SouthEast of the globe
+- Start: New Zealand (South to North), Yap (West to East) : 2 Routes
 - End: Hawaii
 - overload > operator
 - We have an airship, land does not get in the way of our voyage!
+- No loops for the summing of the distance, use an actual algorithm
 
 ---
 
@@ -151,4 +152,4 @@ You are allowed to do any calculations at compile time you wish but you may not 
 Citations:
 
 - See: [Namespaces](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-helper)
-- See: []()
+- See: [Map of Islands](https://drive.google.com/open?id=1WBgpmB5KDLPogVGHkBxyRKmJnVyK-56m&usp=sharing)

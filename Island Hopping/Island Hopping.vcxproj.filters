@@ -39,6 +39,9 @@
     <ClInclude Include="GPS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Haversine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

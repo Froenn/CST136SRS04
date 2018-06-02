@@ -8,7 +8,6 @@
 
 namespace GPS
 {
-
 	class Location
 	{
 	private:

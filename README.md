@@ -9,7 +9,7 @@ Notes:
 - End: Hawaii
 - overload > operator
 - We have an airship, land does not get in the way of our voyage!
-- No loops for the summing of the distance, use an actual algorithm
+- No loops for the summing of the distance, use an actual algorithm (accummulate)
 
 ---
 
@@ -123,7 +123,7 @@ Initialize a std::array using the above table:
 	};
 ```
 
-Calculate the distance travelled as you hop from island to island. 
+Calculate the distance travelled as you hop from island to island. (std::accumulate)
 
 Each hop will take a [Great Circle](https://en.wikipedia.org/wiki/Great-circle_distance) and can be approximated using the [Haversine Formula](https://en.wikipedia.org/wiki/Haversine_formula) to calculate the Kilometers between the islands. Assume the Earth's radius is: 6378km. 
 

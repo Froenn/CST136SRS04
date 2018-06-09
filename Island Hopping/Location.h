@@ -16,6 +16,13 @@ namespace GPS
 		const Longitude longitude_;
 
 	public:
+		auto getLat() const { return latitude_; };
+		auto getLng() const { return longitude_; };
+
+		auto getLatWhole() const { return latitude_.getWholeDegrees(); };
+		auto getLngWhole() const { return longitude_.getWholeDegrees(); };
+
+	public:
 		Location(const std::string name, const Latitude latitude, const Longitude longitude);
 	};
 }

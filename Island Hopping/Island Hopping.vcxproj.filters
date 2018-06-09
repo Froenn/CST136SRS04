@@ -39,7 +39,10 @@
     <ClInclude Include="GPS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Haversine.h">
+    <ClInclude Include="Compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Distance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -70,5 +73,6 @@
     <None Include="..\REPORT.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

@@ -12,7 +12,12 @@ namespace GPS
 		value_type value_;
 
 	public:
-		Range(const value_type value);
+		Range(const value_type value): value_{ value } {};
+
+		operator value_type()
+		{
+			return value_;
+		}
 	};
 }
 #endif

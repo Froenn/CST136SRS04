@@ -1,8 +1,6 @@
 #ifndef ANGLE_H
 #define ANGLE_H
 
-#include "gsl.h"
-
 #include "Range.h"
 
 namespace GPS

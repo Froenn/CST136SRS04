@@ -1,7 +1,8 @@
 ﻿  Latitude.cpp
   Location.cpp
+  Longitude.cpp
   main.cpp
-c:\users\admin\documents\github\cst136srs04\island hopping\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
-c:\users\admin\documents\github\cst136srs04\island hopping\main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\documents\github\cst136srs04\island hopping\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\documents\github\cst136srs04\island hopping\main.cpp(129): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
   Island Hopping.vcxproj -> C:\Users\Admin\Documents\GitHub\CST136SRS04\Debug\Island Hopping.exe
